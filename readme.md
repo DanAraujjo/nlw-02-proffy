@@ -36,12 +36,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 #### ReactJs
 
 - axios
-- react-icons
 - react-router-dom
-- react-icons
 - typescript
 
 #### React Native (Expo)
+
+- axios
+- expo-font
+- google-font
 
 ## :information_source: Como usar
 

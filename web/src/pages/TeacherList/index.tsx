@@ -9,7 +9,7 @@ import "./styles.css";
 
 function TeacherList() {
   const [subject, setSubject] = useState("");
-  const [week_day, setweek_day] = useState("");
+  const [week_day, setWeekDay] = useState("");
   const [time, setTime] = useState("");
 
   const [teachers, setTeachers] = useState([]);
@@ -52,7 +52,7 @@ function TeacherList() {
             label="Dia da semana"
             value={week_day}
             onChange={(e) => {
-              setweek_day(e.target.value);
+              setWeekDay(e.target.value);
             }}
             options={[
               { value: "0", label: "Domingo" },
