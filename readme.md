@@ -1,16 +1,13 @@
 <h1 align="center">
-    <img alt="" title="" src=".github/logo.svg" width="256px" />
-    <p>
      <img alt="" title="" src=".github/layout.png"  width="480px"/>
-    </p>
 </h1>
 
 ## 💻 Projeto
 
 A proposta é criar uma plataforma para conectar professores e alunos.
 
-## 🔖 Layout
 
+## 🔖 Layout
 <img alt="" title="" src=".github/video.gif"  />
 
 Você pode baixar o layout do projeto no formato `.fig`
@@ -19,6 +16,10 @@ Você pode baixar o layout do projeto no formato `.fig`
 - [Mobile](.github/Proffy_Mobile.fig).
 
 Para abrir o arquivo no formato `.fig` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
+
+### Desafio 
+
+> [Versão 2.0](https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970)
 
 ## :rocket: Tecnologias
 
